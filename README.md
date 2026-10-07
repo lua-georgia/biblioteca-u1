@@ -4,9 +4,13 @@ Sistema de Biblioteca
 Identificação
 
 Projeto: Sistema de Biblioteca
-Disciplina: Back-End
+
+Disciplina: Desenvolvimento Back-End
+
 Unidade: 1
+
 Turma: ADS 3P
+
 Professor: Victor Brayner
 
 Integrantes
@@ -27,7 +31,7 @@ O Sistema de Biblioteca é uma aplicação Back-End desenvolvida em Java 21 com 
 
 O sistema permite realizar operações de cadastro e consulta de livros e leitores, além do controle de empréstimos e devoluções.
 
-O projeto foi desenvolvido como atividade de avaliação da Unidade 1, aplicando conceitos de Programação Orientada a Objetos, organização em camadas, Repository, Service, Controller, injeção de dependências e testes automatizados com JUnit.
+O projeto foi desenvolvido como atividade de avaliação da Unidade 1, aplicando conceitos de Programação Orientada a Objetos, organização em camadas, Model, Repository, Service, Controller, injeção de dependências e testes automatizados com JUnit.
 
 A persistência dos dados é realizada em memória, utilizando estruturas como List e ArrayList.
 
